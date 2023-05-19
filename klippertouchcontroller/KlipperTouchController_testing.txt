@@ -1,0 +1,6 @@
+vcode=0
+ver=0.8.0
+path=
+url=
+about=
+!end!

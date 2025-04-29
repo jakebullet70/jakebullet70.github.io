@@ -1,5 +1,5 @@
-vcode=5
-ver=3.0.0d
+vcode=6
+ver=3.0.0e
 path=
 url=
 about=
